@@ -1,0 +1,7 @@
+\begindata
+
+   KERNELS_TO_LOAD = ( 'C:\Users\Doug\OneDrive\Desktop\Python (Desktop)\Orbital Mechanics\naif0012.tls'
+                       'C:\Users\Doug\OneDrive\Desktop\Python (Desktop)\Orbital Mechanics\de421.bsp'
+		       'C:\Users\Doug\OneDrive\Desktop\Python (Desktop)\Orbital Mechanics\de432s.bsp'
+                       'C:\Users\Doug\OneDrive\Desktop\Python (Desktop)\Orbital Mechanics\pck00010.tpc' )
+\begintext
